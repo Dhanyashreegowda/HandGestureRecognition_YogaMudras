@@ -1,0 +1,10 @@
+0 AbhayaMudra
+1 ApanaMudra
+2 MukulaMudra
+3 PranaMudra
+4 ShunyaMudra
+5 ThumbsDown
+6 ThumbsUp
+7 VajraMudra
+8 VarunaMudra
+9 VayuMudra
